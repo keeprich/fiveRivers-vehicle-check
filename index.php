@@ -8,6 +8,20 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+<!-- Scroll indicator -->
+
+<div class="header">
+  <h1>me</h1>
+  <div class="progress-container">
+    <div class="progress-bar" id="myBar"></div>
+  </div>  
+</div>
+
+<!-- Scroll indicator -->
+
+<div class="content">
+
     <section class="sectionOne">
 <h3 class="text-center">Please complet all Sections</h3>
 
@@ -279,7 +293,7 @@
     </div>
      
     <div class="col-sm-4">
-    <p>how many times have you visited a HS2 site?</p>
+    <p>how many times have you visited a HS2 ?</p>
     </div>
     <div class="col-sm-4">
     <p>Comments:</p>
@@ -524,12 +538,121 @@
 
 <section class="sectionFour">
 
+<div class="container">
+<h5 class="operat">Driver (Not part of the gate checks for Transport).</h5>
+</div>
+<br>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+    
+<!--  -->
+<div  class="text-center">
+<span>
+<small>Fail</small>
+</span>
+<label class="switch">
+  <input type="checkbox">
+  <span class="slider round"></span>
+</label>
+<span>
+<small>Pass</small>
+</span>
+</div>
+<!--  -->
+
+    </div>
+     
+    <div class="col-sm-4">
+    <p>how many times have you visited a HS2 ?</p>
+    </div>
+    <div class="col-sm-4">
+    <p>Comments:</p>
+    </div>
+
+  </div>
+</div>
+<!--  -->
+
+<!--  -->
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+    
+<!--  -->
+<div  class="text-center">
+<span>
+<small>Fail</small>
+</span>
+<label class="switch">
+  <input type="checkbox">
+  <span class="slider round"></span>
+</label>
+<span>
+<small>Pass</small>
+</span>
+</div>
+<!--  -->
+
+    </div>
+     
+    <div class="col-sm-4">
+    <p>how many times have you visited a HS2 site?</p>
+    </div>
+    <div class="col-sm-4">
+    <p>Comments:</p>
+    </div>
+
+  </div>
+</div>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+    
+<!--  -->
+<div  class="text-center">
+<span>
+<small>Fail</small>
+</span>
+<label class="switch">
+  <input type="checkbox">
+  <span class="slider round"></span>
+</label>
+<span>
+<small>Pass</small>
+</span>
+</div>
+<!--  -->
+
+    </div>
+     
+    <div class="col-sm-4">
+    <p>how many times have you visited a HS2 site?</p>
+    </div>
+    <div class="col-sm-4">
+    <p>Comments:</p>
+    </div>
+
+  </div>
+</div>
+
+
+</div>
+</div>
+</div>
 
 </section>
 
+</div>
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
+<script src="scripts.js"></script>
+
 </body>
 </html>
