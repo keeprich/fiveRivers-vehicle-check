@@ -12,7 +12,6 @@
 <!-- Scroll indicator -->
 
 <div class="header">
-  <h1>me</h1>
   <div class="progress-container">
     <div class="progress-bar" id="myBar"></div>
   </div>  
