@@ -11,3 +11,16 @@ function myFunction() {
 }
 
 // Scroll indicatot
+
+
+// RANGE SLIDER
+
+var slider1 = document.getElementById("myRange");
+var output = document.getElementById("demo");
+output.innerHTML = slider1.value;
+
+slider1.oninput = function() {
+  output.innerHTML = this.value;
+}
+
+// RANGE SLIDER

@@ -645,6 +645,61 @@
 
 </section>
 
+<section>
+
+<div class="container">
+<h3>MANDATORY</h3>
+<h5>Please circle PASS or FAIL for all items (if FAIL, please specify)</h5>
+<h5 class="operat">Operator</h5>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-sm-2 ">
+    
+<!--  -->
+<span>
+<small>Fail</small>
+</span>
+<label class="switch">
+  <input type="checkbox">
+  <span class="slider round"></span>
+</label>
+<span>
+<small>Pass</small>
+</span>
+<!--  -->
+
+    </div>
+    <div class="col-sm-2">
+     <p>Less than 5</p>
+    </div>
+    <div class="col-sm-2">
+    <p>More than 5</p>
+    </div>
+    <div class="col-sm-3">
+    <p>how many times have you visited a HS2 site?</p>
+    </div>
+    <div class="col-sm-3">
+    <p>Comments:</p>
+    </div>
+
+  </div>
+</div>
+
+<br>
+ 
+
+   <!--RANGE SLIDER  -->
+<div class="container">
+   <div class="slidecontainer1">
+  <input type="range" min="1" max="3" value="50" class="slider1" id="myRange">
+  <p>Value: <span id="demo"></span></p>
+</div>
+</div>
+   <!--RANGE SLIDER  -->
+
+</section>
+
 </div>
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
