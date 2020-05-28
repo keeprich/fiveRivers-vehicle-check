@@ -654,10 +654,49 @@
 </div>
 <div class="container">
   <div class="row">
-    <div class="col-sm-2 ">
+    <div class="col-sm-6 ">
+
+
+    <!--RANGE SLIDER  -->
+<div class="container">
+   <div class="slidecontainer1">
+  <input type="range" min="1" max="3" value="50" class="slider1" id="myRange">
+
+<!-- grid -->
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+
+    <p>Yes</p>
+
+
+  </div>
+    <div class="col">
+    <p class="text-center">No</p>
+
+    </div>
+    <div class="col">
+    <p class="tryRight">N/A</p>
+
+    </div>
+  </div>
+</div>
+
+<!-- grid -->
+
+
+
+   
+
+  <!-- <p>Value: <span id="demo"></span></p> -->
+</div>
+</div>
+   <!--RANGE SLIDER  -->
+
     
 <!--  -->
-<span>
+<!-- <span>
 <small>Fail</small>
 </span>
 <label class="switch">
@@ -666,16 +705,16 @@
 </label>
 <span>
 <small>Pass</small>
-</span>
+</span> -->
 <!--  -->
 
-    </div>
-    <div class="col-sm-2">
+     </div>
+    <!-- <div class="col-sm-2">
      <p>Less than 5</p>
     </div>
     <div class="col-sm-2">
     <p>More than 5</p>
-    </div>
+    </div> -->
     <div class="col-sm-3">
     <p>how many times have you visited a HS2 site?</p>
     </div>
