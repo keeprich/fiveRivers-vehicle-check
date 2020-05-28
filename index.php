@@ -654,7 +654,7 @@
 </div>
 <div class="container">
   <div class="row">
-    <div class="col-sm-6 ">
+    <div class="col-sm-4 ">
 
 
     <!--RANGE SLIDER  -->
@@ -689,53 +689,576 @@
 
    
 
-  <!-- <p>Value: <span id="demo"></span></p> -->
 </div>
 </div>
    <!--RANGE SLIDER  -->
-
-    
-<!--  -->
-<!-- <span>
-<small>Fail</small>
-</span>
-<label class="switch">
-  <input type="checkbox">
-  <span class="slider round"></span>
-</label>
-<span>
-<small>Pass</small>
-</span> -->
-<!--  -->
+ 
 
      </div>
-    <!-- <div class="col-sm-2">
-     <p>Less than 5</p>
-    </div>
-    <div class="col-sm-2">
-    <p>More than 5</p>
-    </div> -->
-    <div class="col-sm-3">
+    
+    <div class="col-sm-4">
     <p>how many times have you visited a HS2 site?</p>
     </div>
-    <div class="col-sm-3">
+    <div class="col-sm-4">
     <p>Comments:</p>
     </div>
 
   </div>
 </div>
 
-<br>
- 
 
-   <!--RANGE SLIDER  -->
+<!--  -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4 ">
+    <!--RANGE SLIDER  -->
 <div class="container">
    <div class="slidecontainer1">
   <input type="range" min="1" max="3" value="50" class="slider1" id="myRange">
-  <p>Value: <span id="demo"></span></p>
+
+<!-- grid -->
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+
+    <p>Yes</p>
+
+
+  </div>
+    <div class="col">
+    <p class="text-center">No</p>
+
+    </div>
+    <div class="col">
+    <p class="tryRight">N/A</p>
+
+    </div>
+  </div>
+</div>
+
+<!-- grid -->
+
+
+
+   
+
 </div>
 </div>
    <!--RANGE SLIDER  -->
+ 
+
+     </div>
+    
+    <div class="col-sm-4">
+    <p>how many times have you visited a HS2 site?</p>
+    </div>
+    <div class="col-sm-4">
+    <p>Comments:</p>
+    </div>
+
+  </div>
+</div>
+<!--  -->
+
+<!--  -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4 ">
+    <!--RANGE SLIDER  -->
+<div class="container">
+   <div class="slidecontainer1">
+  <input type="range" min="1" max="3" value="50" class="slider1" id="myRange">
+
+<!-- grid -->
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+
+    <p>Yes</p>
+
+
+  </div>
+    <div class="col">
+    <p class="text-center">No</p>
+
+    </div>
+    <div class="col">
+    <p class="tryRight">N/A</p>
+
+    </div>
+  </div>
+</div>
+
+<!-- grid -->
+
+
+
+   
+
+</div>
+</div>
+   <!--RANGE SLIDER  -->
+ 
+
+     </div>
+    
+    <div class="col-sm-4">
+    <p>how many times have you visited a HS2 site?</p>
+    </div>
+    <div class="col-sm-4">
+    <p>Comments:</p>
+    </div>
+
+  </div>
+</div>
+<!--  -->
+
+<!--  -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4 ">
+    <!--RANGE SLIDER  -->
+<div class="container">
+   <div class="slidecontainer1">
+  <input type="range" min="1" max="3" value="50" class="slider1" id="myRange">
+
+<!-- grid -->
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+
+    <p>Yes</p>
+
+
+  </div>
+    <div class="col">
+    <p class="text-center">No</p>
+
+    </div>
+    <div class="col">
+    <p class="tryRight">N/A</p>
+
+    </div>
+  </div>
+</div>
+
+<!-- grid -->
+
+
+
+   
+
+</div>
+</div>
+   <!--RANGE SLIDER  -->
+ 
+
+     </div>
+    
+    <div class="col-sm-4">
+    <p>how many times have you visited a HS2 site?</p>
+    </div>
+    <div class="col-sm-4">
+    <p>Comments:</p>
+    </div>
+
+  </div>
+</div>
+<!--  -->
+
+<!--  -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4 ">
+    <!--RANGE SLIDER  -->
+<div class="container">
+   <div class="slidecontainer1">
+  <input type="range" min="1" max="3" value="50" class="slider1" id="myRange">
+
+<!-- grid -->
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+
+    <p>Yes</p>
+
+
+  </div>
+    <div class="col">
+    <p class="text-center">No</p>
+
+    </div>
+    <div class="col">
+    <p class="tryRight">N/A</p>
+
+    </div>
+  </div>
+</div>
+
+<!-- grid -->
+
+
+
+   
+
+</div>
+</div>
+   <!--RANGE SLIDER  -->
+ 
+
+     </div>
+    
+    <div class="col-sm-4">
+    <p>how many times have you visited a HS2 site?</p>
+    </div>
+    <div class="col-sm-4">
+    <p>Comments:</p>
+    </div>
+
+  </div>
+</div>
+<!--  -->
+
+<!--  -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4 ">
+    <!--RANGE SLIDER  -->
+<div class="container">
+   <div class="slidecontainer1">
+  <input type="range" min="1" max="3" value="50" class="slider1" id="myRange">
+
+<!-- grid -->
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+
+    <p>Yes</p>
+
+
+  </div>
+    <div class="col">
+    <p class="text-center">No</p>
+
+    </div>
+    <div class="col">
+    <p class="tryRight">N/A</p>
+
+    </div>
+  </div>
+</div>
+
+<!-- grid -->
+
+
+
+   
+
+</div>
+</div>
+   <!--RANGE SLIDER  -->
+ 
+
+     </div>
+    
+    <div class="col-sm-4">
+    <p>how many times have you visited a HS2 site?</p>
+    </div>
+    <div class="col-sm-4">
+    <p>Comments:</p>
+    </div>
+
+  </div>
+</div>
+<!--  -->
+
+<!--  -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4 ">
+    <!--RANGE SLIDER  -->
+<div class="container">
+   <div class="slidecontainer1">
+  <input type="range" min="1" max="3" value="50" class="slider1" id="myRange">
+
+<!-- grid -->
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+
+    <p>Yes</p>
+
+
+  </div>
+    <div class="col">
+    <p class="text-center">No</p>
+
+    </div>
+    <div class="col">
+    <p class="tryRight">N/A</p>
+
+    </div>
+  </div>
+</div>
+
+<!-- grid -->
+
+
+
+   
+
+</div>
+</div>
+   <!--RANGE SLIDER  -->
+ 
+
+     </div>
+    
+    <div class="col-sm-4">
+    <p>how many times have you visited a HS2 site?</p>
+    </div>
+    <div class="col-sm-4">
+    <p>Comments:</p>
+    </div>
+
+  </div>
+</div>
+<!--  -->
+
+<!--  -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4 ">
+    <!--RANGE SLIDER  -->
+<div class="container">
+   <div class="slidecontainer1">
+  <input type="range" min="1" max="3" value="50" class="slider1" id="myRange">
+
+<!-- grid -->
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+
+    <p>Yes</p>
+
+
+  </div>
+    <div class="col">
+    <p class="text-center">No</p>
+
+    </div>
+    <div class="col">
+    <p class="tryRight">N/A</p>
+
+    </div>
+  </div>
+</div>
+
+<!-- grid -->
+
+
+
+   
+
+</div>
+</div>
+   <!--RANGE SLIDER  -->
+ 
+
+     </div>
+    
+    <div class="col-sm-4">
+    <p>how many times have you visited a HS2 site?</p>
+    </div>
+    <div class="col-sm-4">
+    <p>Comments:</p>
+    </div>
+
+  </div>
+</div>
+<!--  -->
+
+<!--  -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4 ">
+    <!--RANGE SLIDER  -->
+<div class="container">
+   <div class="slidecontainer1">
+  <input type="range" min="1" max="3" value="50" class="slider1" id="myRange">
+
+<!-- grid -->
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+
+    <p>Yes</p>
+
+
+  </div>
+    <div class="col">
+    <p class="text-center">No</p>
+
+    </div>
+    <div class="col">
+    <p class="tryRight">N/A</p>
+
+    </div>
+  </div>
+</div>
+
+<!-- grid -->
+
+
+
+   
+
+</div>
+</div>
+   <!--RANGE SLIDER  -->
+ 
+
+     </div>
+    
+    <div class="col-sm-4">
+    <p>how many times have you visited a HS2 site?</p>
+    </div>
+    <div class="col-sm-4">
+    <p>Comments:</p>
+    </div>
+
+  </div>
+</div>
+<!--  -->
+
+<!--  -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4 ">
+    <!--RANGE SLIDER  -->
+<div class="container">
+   <div class="slidecontainer1">
+  <input type="range" min="1" max="3" value="50" class="slider1" id="myRange">
+
+<!-- grid -->
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+
+    <p>Yes</p>
+
+
+  </div>
+    <div class="col">
+    <p class="text-center">No</p>
+
+    </div>
+    <div class="col">
+    <p class="tryRight">N/A</p>
+
+    </div>
+  </div>
+</div>
+
+<!-- grid -->
+
+
+
+   
+
+</div>
+</div>
+   <!--RANGE SLIDER  -->
+ 
+
+     </div>
+    
+    <div class="col-sm-4">
+    <p>how many times have you visited a HS2 site?</p>
+    </div>
+    <div class="col-sm-4">
+    <p>Comments:</p>
+    </div>
+
+  </div>
+</div>
+<!--  -->
+
+<!--  -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4 ">
+    <!--RANGE SLIDER  -->
+<div class="container">
+   <div class="slidecontainer1">
+  <input type="range" min="1" max="3" value="50" class="slider1" id="myRange">
+
+<!-- grid -->
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+
+    <p>Yes</p>
+
+
+  </div>
+    <div class="col">
+    <p class="text-center">No</p>
+
+    </div>
+    <div class="col">
+    <p class="tryRight">N/A</p>
+
+    </div>
+  </div>
+</div>
+
+<!-- grid -->
+
+
+
+   
+
+</div>
+</div>
+   <!--RANGE SLIDER  -->
+ 
+
+     </div>
+    
+    <div class="col-sm-4">
+    <p>how many times have you visited a HS2 site?</p>
+    </div>
+    <div class="col-sm-4">
+    <p>Comments:</p>
+    </div>
+
+  </div>
+</div>
+<!--  -->
+
+<br>
+ 
 
 </section>
 
